@@ -3,6 +3,7 @@
 ## ChatPDF을 활용한 학습 증진 플랫폼
 <br>
 
+![02](https://github.com/UihwanLee/TEST/assets/36596037/9de2b076-2426-4636-9e7e-9a9658f9c7a5)
 
 ## 1. 프로젝트 소개
 
