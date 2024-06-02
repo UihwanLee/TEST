@@ -28,16 +28,16 @@ ChatPDF 활용한 학습 증진 플랫폼은 ChatPDF API를 활용하여 웹 서
 
 
 ## 연구 및 개발 내용
- <Client>
+ ### Client
   - Unity WebGL을 활용하여 면접 환경 서비스를 위한 클라이언트 구축
   - 
   - 
-<FrontEnd>
+ ### FrontEnd
   - 전체적인 플랫폼 UI 구현
   - 학습 평가, 스케줄링에 따른 사용자의 영역별 숙지율 통계 서비스 기능 구현
   - react rechart를 이용해 통계 데이터에 대한 그래픽 처리 구현
   
- <Backend>
+  ### Backend
   - Chat PDF API를 이용해 서버와 클라이언트 간 통신 구현
   - node.js를 이용한 서버 구축 및 클라이언트 간 라우터 처리 및 
   - MongoDB와 AWS를 이용한 데이터베이스 관리 및 데이터 처리
