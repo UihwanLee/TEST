@@ -50,13 +50,6 @@ ChatPDF 활용한 학습 증진 플랫폼은 ChatPDF API를 활용하여 웹 서
  - 사용 API 및 패키지: Chat PDF API, react-unity-webgl, recharts
  - DB: MongoDB, AWS
 
-|||
-|:-------|:-------------------------------|
-|개발언어|C#, JSP|
-|개발방법론|애자일|
-|사용 프레임워크|React, Unity, Node.js, WebGL|
-|사용 API 및 패키지|Chat PDF API, react-unity-webgl, recharts|
-|DB|MongoDB, AWS|
 
 ## Members
 
